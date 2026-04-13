@@ -1,0 +1,141 @@
+{
+  "siteSettings": {
+    "businessName": "LuminaFilm",
+    "tagline": "Precision Film. Refined Aesthetics.",
+    "phone": "(555) 820-4400",
+    "email": "hello@luminafilm.com",
+    "address": "4820 Obsidian Drive, Suite 200, Austin, TX 78701",
+    "hours": "Mon–Fri 8am–6pm · Sat 9am–4pm · Sun Closed",
+    "socialLinks": {
+      "instagram": "https://instagram.com/luminafilm",
+      "facebook": "https://facebook.com/luminafilm",
+      "youtube": "https://youtube.com/@luminafilm"
+    },
+    "googleMapsEmbedUrl": "https://maps.google.com/maps?q=Austin,TX&output=embed"
+  },
+  "hero": {
+    "headline": "Where Light Meets Precision",
+    "subheadline": "Premium window film solutions engineered for automotive, residential, and commercial applications. Crafted for those who demand the finest.",
+    "ctaPrimary": "Get a Free Quote",
+    "ctaSecondary": "Explore Services",
+    "backgroundImage": "/images/hero-bg.jpg"
+  },
+  "stats": [
+    { "label": "Years in Business", "value": "18+" },
+    { "label": "Projects Completed", "value": "12,400+" },
+    { "label": "Client Satisfaction", "value": "99.2%" }
+  ],
+  "services": {
+    "auto": {
+      "title": "Automotive",
+      "shortDesc": "Precision ceramic and nano-carbon films that protect your investment while elevating your vehicle's presence on every road.",
+      "heroHeadline": "Engineered for the Road Ahead",
+      "heroSubheadline": "Premium automotive window film with the industry's most advanced heat-rejection and UV-blocking technology.",
+      "benefits": [
+        { "title": "Heat Rejection", "desc": "Reject up to 98% of infrared heat, keeping your cabin cool without overworking your A/C.", "icon": "thermometer" },
+        { "title": "UV Protection", "desc": "Block 99.9% of UV rays — protecting your skin, your interior, and your upholstery from fading.", "icon": "shield" },
+        { "title": "Privacy & Security", "desc": "Enhance privacy and strengthen glass to resist shattering upon impact.", "icon": "eye-off" },
+        { "title": "Aesthetic Refinement", "desc": "A flawless, factory-fitted appearance that enhances every body line.", "icon": "sparkles" }
+      ],
+      "faq": [
+        { "q": "How long does installation take?", "a": "Most vehicles are completed in 2–4 hours. Full wraps or specialty installs may take a full day." },
+        { "q": "How long does the film last?", "a": "Our films carry a lifetime warranty for the original owner. You can expect 10–15+ years of performance." },
+        { "q": "Can I roll my windows down after tinting?", "a": "We recommend waiting 3–5 days before rolling windows down to allow full curing." },
+        { "q": "Is window tinting street legal?", "a": "Yes — we only install VLT levels that comply with Texas state law. We'll advise you on the best legal options." }
+      ],
+      "packages": [
+        { "name": "Clarity Shield", "description": "Entry-level dyed film with basic UV protection and clean aesthetics.", "priceRange": "From $199", "features": ["UV Block 99%", "1 yr warranty", "2 windows"] },
+        { "name": "Carbon Series", "description": "Nano-carbon technology with excellent heat rejection and non-reflective finish.", "priceRange": "From $349", "features": ["Heat Rej. 55%", "UV Block 99.9%", "Lifetime warranty", "Full vehicle"] },
+        { "name": "Ceramic Elite", "description": "Top-tier ceramic film — maximum heat rejection, signal-friendly, and crystal clarity.", "priceRange": "From $549", "features": ["Heat Rej. 80%+", "IR Block 98%", "Lifetime warranty", "Signal safe", "Full vehicle"] }
+      ]
+    },
+    "residential": {
+      "title": "Residential",
+      "shortDesc": "Transform your home with films that slash energy bills, protect furnishings, and deliver uncompromising privacy.",
+      "heroHeadline": "Your Home, Transformed",
+      "heroSubheadline": "Architectural window films that marry form with function — lowering energy costs and elevating the spaces you live in.",
+      "benefits": [
+        { "title": "Energy Savings", "desc": "Reduce HVAC costs by up to 30% by blocking solar heat gain through glass.", "icon": "zap" },
+        { "title": "Privacy Without Darkness", "desc": "Day-privacy films let light in while shielding your interior from outside view.", "icon": "eye-off" },
+        { "title": "Glare Reduction", "desc": "Work and relax comfortably near windows — no more squinting or screen glare.", "icon": "sun" },
+        { "title": "Fade Protection", "desc": "Preserve art, flooring, and furniture by blocking 99.9% of damaging UV rays.", "icon": "shield" }
+      ],
+      "faq": [
+        { "q": "Will the film change how my home looks from outside?", "a": "We offer neutral and low-reflectivity films designed to maintain your home's original appearance." },
+        { "q": "How long does residential installation take?", "a": "A typical home with 10–15 windows takes a single day. We clean up completely before leaving." },
+        { "q": "Does film work on double-pane windows?", "a": "Yes, with some limitations. We assess your specific glass type and recommend safe films to avoid seal failure." },
+        { "q": "Can I get a custom decorative film?", "a": "Absolutely. We offer frosted, patterned, and custom-cut privacy films for bathrooms and office partitions." }
+      ],
+      "packages": [
+        { "name": "Solar Guard", "description": "Clear solar film that reduces heat and glare while preserving your view.", "priceRange": "From $8/sq ft", "features": ["Heat reduction 40%", "UV Block 99%", "Clear appearance"] },
+        { "name": "Privacy Series", "description": "Day-privacy or frosted films for bathrooms, bedrooms, and office partitions.", "priceRange": "From $10/sq ft", "features": ["Day privacy", "Glare reduction", "Multiple opacities"] },
+        { "name": "Prestige Ceramic", "description": "Premium ceramic film for maximum performance across all metrics.", "priceRange": "From $14/sq ft", "features": ["Heat Rej. 75%+", "UV Block 99.9%", "Low reflectivity", "Lifetime warranty"] }
+      ]
+    },
+    "commercial": {
+      "title": "Commercial",
+      "shortDesc": "Protect assets, reduce operating costs, and enhance your brand environment with professional-grade architectural films.",
+      "heroHeadline": "Built for Business",
+      "heroSubheadline": "Commercial window solutions that improve energy efficiency, occupant comfort, and building security — at any scale.",
+      "benefits": [
+        { "title": "Energy Efficiency", "desc": "Meet LEED targets and reduce commercial HVAC loads by up to 40% with advanced solar films.", "icon": "building-2" },
+        { "title": "Occupant Comfort", "desc": "Eliminate hot spots, glare, and cold drafts near glass surfaces across open-plan offices.", "icon": "users" },
+        { "title": "Security Film", "desc": "Safety and security films hold glass together on impact — protecting people and assets.", "icon": "shield-check" },
+        { "title": "Brand Privacy", "desc": "Custom frosted, branded, and decorative films for storefronts and conference rooms.", "icon": "building" }
+      ],
+      "faq": [
+        { "q": "Can you handle large commercial buildings?", "a": "Yes. We have scaffolding-certified crews and have completed high-rise installations across Texas." },
+        { "q": "Do you offer after-hours installation?", "a": "Absolutely. We work around your business hours to minimize disruption to operations." },
+        { "q": "Is there a minimum project size?", "a": "We serve projects of all sizes, from single storefronts to full campuses." },
+        { "q": "Do you provide insurance and licensing documentation?", "a": "Yes — we're fully licensed, bonded, and insured. We provide COIs and all documentation for commercial contracts." }
+      ],
+      "packages": [
+        { "name": "Commercial Solar", "description": "High-performance solar film for office buildings and storefronts.", "priceRange": "Custom quote", "features": ["Volume pricing", "LEED-eligible", "Nationwide warranty"] },
+        { "name": "Security Series", "description": "Safety and security films rated to ANSI Z97.1 and CPSC 16 CFR 1201.", "priceRange": "Custom quote", "features": ["Impact resistance", "Anti-shatter", "Blast mitigation"] },
+        { "name": "Brand & Decor", "description": "Custom-printed, frosted, and etched films for brand environments.", "priceRange": "Custom quote", "features": ["Custom print", "Frosted options", "Logo/pattern cut"] }
+      ]
+    }
+  },
+  "testimonials": [
+    {
+      "id": "t1",
+      "name": "Marcus Delaney",
+      "role": "Ferrari Owner, Austin TX",
+      "quote": "The Ceramic Elite install on my 812 Superfast is flawless. The heat rejection is remarkable — and you'd never know the film was there. LuminaFilm operates at a different level.",
+      "rating": 5
+    },
+    {
+      "id": "t2",
+      "name": "Priya Sharma",
+      "role": "Interior Designer",
+      "quote": "I've specified LuminaFilm on six residential projects now. The Prestige Ceramic line pairs beautifully with high-end interiors — preserving light quality while eliminating glare. My clients are always thrilled.",
+      "rating": 5
+    },
+    {
+      "id": "t3",
+      "name": "James Whitfield",
+      "role": "Facilities Director, Apex Capital",
+      "quote": "We tinted 14 floors of our downtown headquarters. LuminaFilm's crew was professional, fast, and the energy savings have been measurable. Our LEED recertification looked better because of it.",
+      "rating": 5
+    }
+  ],
+  "gallery": [
+    { "id": "g1", "src": "/uploads/gallery-auto-1.jpg", "category": "Auto", "caption": "Ceramic Elite — 2023 Porsche 911 GT3", "alt": "Porsche 911 GT3 with LuminaFilm ceramic tint" },
+    { "id": "g2", "src": "/uploads/gallery-auto-2.jpg", "category": "Auto", "caption": "Carbon Series — Range Rover Sport", "alt": "Range Rover Sport window tint" },
+    { "id": "g3", "src": "/uploads/gallery-residential-1.jpg", "category": "Residential", "caption": "Prestige Ceramic — Modern Hill Country Residence", "alt": "Modern home with solar window film" },
+    { "id": "g4", "src": "/uploads/gallery-residential-2.jpg", "category": "Residential", "caption": "Privacy Series — Home Office Suite", "alt": "Home office with privacy window film" },
+    { "id": "g5", "src": "/uploads/gallery-commercial-1.jpg", "category": "Commercial", "caption": "Commercial Solar — Downtown Office Tower", "alt": "Commercial office building with solar film" },
+    { "id": "g6", "src": "/uploads/gallery-commercial-2.jpg", "category": "Commercial", "caption": "Brand & Decor — Retail Flagship Store", "alt": "Retail storefront with custom branded film" }
+  ],
+  "team": [
+    { "id": "tm1", "name": "Elias Vance", "role": "Founder & Master Installer", "bio": "With 18 years in precision film application, Elias founded LuminaFilm with one vision: raise the bar for quality in every market we serve.", "photo": "/uploads/team-elias.jpg" },
+    { "id": "tm2", "name": "Sofia Reyes", "role": "Commercial Projects Director", "bio": "Sofia leads our commercial division, overseeing complex multi-floor installs and managing enterprise accounts across the Southwest.", "photo": "/uploads/team-sofia.jpg" },
+    { "id": "tm3", "name": "Derek Okafor", "role": "Automotive Specialist", "bio": "A certified IWFA installer with a passion for exotic cars, Derek ensures every automotive install is factory-precise.", "photo": "/uploads/team-derek.jpg" }
+  ],
+  "trustPillars": [
+    { "title": "Certified Excellence", "desc": "IWFA-certified installers trained to the highest industry standards on every project.", "icon": "award" },
+    { "title": "Lifetime Warranty", "desc": "Our premium films are backed by a transferable lifetime warranty on materials and labor.", "icon": "shield-check" },
+    { "title": "Premium Materials", "desc": "We exclusively use 3M, Llumar, and Huper Optik films — no cheap alternatives.", "icon": "gem" },
+    { "title": "White-Glove Service", "desc": "From consultation to installation, you receive attentive, professional service every step of the way.", "icon": "star" }
+  ]
+}
