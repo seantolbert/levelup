@@ -29,16 +29,24 @@ export default function GalleryAdminPage() {
     fd.append('file', file)
     const res = await fetch('/api/admin/upload', { method: 'POST', body: fd })
     const data = await res.json()
-    setUploading(false)
     if (data.url) {
-      setItems([...items, {
+      const newItem: GalleryItem = {
         id: `g${Date.now()}`,
         src: data.url,
         category: 'Auto',
         caption: file.name.replace(/\.[^/.]+$/, ''),
         alt: file.name,
-      }])
+      }
+      const updated = [...items, newItem]
+      setItems(updated)
+      // Auto-save so the public gallery updates immediately
+      await fetch('/api/admin/content', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ gallery: updated }),
+      })
     }
+    setUploading(false)
   }
 
   const remove = (id: string) => setItems(items.filter((i) => i.id !== id))
